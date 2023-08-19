@@ -138,6 +138,11 @@ hr {
     border-radius: 20%;
 }
 
+.data_analyst_img {
+    border-radius: 0% !important;
+
+}
+
 .get_in_touch_description {
     max-width: 300px;
     text-align: center;
